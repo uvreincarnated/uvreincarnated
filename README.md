@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @uvreincarnated
+- 👋 Hi, I’m Utsav
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on any project as beginner
